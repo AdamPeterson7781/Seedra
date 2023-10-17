@@ -56,6 +56,8 @@ body{
 @media screen and (max-width: 991px) {
     .search-icon {
         padding: 1% 0 1% 5%;
+        margin: auto;
+        display: flex;
     }
 }
 
